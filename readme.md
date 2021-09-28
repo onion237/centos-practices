@@ -1,1 +1,1 @@
-# centos-practices
+# centOS-practices
